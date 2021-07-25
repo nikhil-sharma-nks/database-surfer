@@ -1,6 +1,6 @@
 # Compiled class file
 *.class
-/screenshots
+screenshots/
 
 # Log file
 *.log
