@@ -1,7 +1,8 @@
 # Compiled class file
 *.class
 screenshots/
-
+/screenshots/
+/screenshots
 # Log file
 *.log
 
