@@ -5,7 +5,7 @@ Swing based java GUI project which connect to local Oracle or MySql databases an
 
 ![home](https://user-images.githubusercontent.com/39741974/126912401-4ab82553-c4b8-4fb8-a25d-b66bfb1fd2a4.jpg)
 
-## After logging in which tab you want to open data or metadata
+## After logging in select which tab you want to open data or metadata
 
 ![Oracle-entry](https://user-images.githubusercontent.com/39741974/126912419-dcc15e0e-7091-4e28-9c04-292db7661cb1.jpg)
 
